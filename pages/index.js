@@ -59,8 +59,7 @@ export default function Home() {
           <span className=' text-cyan-400'>,</span> NextJs 
           <span className=' text-cyan-400'>,</span> React 
           <span className=' text-cyan-400'>,</span> Azure DevOps  
-          <span className=' text-cyan-400'>,</span> SQL 
-          <span className=' text-cyan-400'> &</span> React </p>
+          <span className=' text-cyan-400'> &</span> SQL </p>
         </div>
         <div className='text-5xl flex justify-center gap-2 text-cyan-400'>
         <a href='https://www.linkedin.com/in/hamza-berqia/' className='text-5xl flex justify-center'><AiFillLinkedin /></a>
