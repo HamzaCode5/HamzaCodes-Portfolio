@@ -67,7 +67,6 @@ export default function Home() {
         
         </div>
         <div>
-       
        <a href="mailto:hamzaberqia.com" className="text-md flex justify-center  py-10">
        <span className='text-md text-gray-800 dark:text-white'>contact</span>
        <span className="text-md text-cyan-400">@hamzaberqia.com</span>
