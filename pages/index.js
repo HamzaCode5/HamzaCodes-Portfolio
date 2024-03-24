@@ -55,8 +55,8 @@ export default function Home() {
           <h5 className='text-xl py-3 text-gray-800 dark:text-white font-bold'>Skills</h5>
           <p className='text-md py-1 leading-8 text-gray-800 dark:text-white'> Java<span className='text-cyan-400'>,</span> C#<span className='text-cyan-400'>,</span> .NET<span className='text-cyan-400'>,</span> Python<span className='text-cyan-400'>,</span> JavaScript
           <span className=' text-cyan-400'>,</span> HTML<span className='text-cyan-400'>,</span> CSS<span className='text-cyan-400'>,</span> Tailwind
-          <span className=' text-cyan-400'>,</span> NodeJS
-          <span className=' text-cyan-400'>,</span> NextJs 
+          <span className=' text-cyan-400'>,</span> Node,js
+          <span className=' text-cyan-400'>,</span> Next.js 
           <span className=' text-cyan-400'>,</span> React 
           <span className=' text-cyan-400'>,</span> Azure DevOps  
           <span className=' text-cyan-400'> &</span> SQL </p>
