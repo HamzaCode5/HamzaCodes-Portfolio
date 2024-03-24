@@ -20,8 +20,8 @@ export default function Home() {
         <nav className="py-10 flex justify-between">
         <div>
           <h1> 
-          <span className="text-7xl font-montserrat font-bold text-cyan-400">H</span>
-          <span className="text-7xl font-montserrat font-bold mr-6 text-gray-800 dark:text-white">AMZA.</span>
+          <span className="text-5xl font-montserrat font-bold text-cyan-400">H</span>
+          <span className="text-5xl font-montserrat font-bold mr-6 text-gray-800 dark:text-white">AMZA.</span>
           </h1>  
           </div>
         <ul className="flex items-center">
@@ -30,7 +30,7 @@ export default function Home() {
               <BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className="cursor-pointer text-2xl text-gray-800 dark:text-white"/>
             </li>
             <li>
-            <Link className= "bg-cyan-400 text-white px-4 py-2 rounded-md ml-6 mr-6" href="Hamza_Berqia_CV.pdf" target="_blank">Resume</Link>
+            <Link className= "bg-cyan-400 text-white px-4 py-2 rounded-md ml-6 " href="Hamza_Berqia_CV.pdf" target="_blank">Resume</Link>
             </li>
           </ul>
       
