@@ -48,7 +48,7 @@ export default function Home() {
                     loop
         />
           <h4 className='text-xl py-3 text-gray-800 dark:text-white font-bold'>About Me</h4>
-          <p className='text-md py-1 leading-8 text-gray-800 dark:text-white'>Software Engineer<span className='text-cyan-400'>,</span> UX Designer<span className='text-cyan-400'> &</span> Crypto Investor</p>
+          <p className='text-md py-1 leading-8 text-gray-800 dark:text-white'>Software Engineer<span className='text-cyan-400'>&</span> UX Designer</p>
             <p className='text-md py-1 leading-8 text-gray-800 dark:text-white'> BSc 
               <span className='text-cyan-400'> (Hons)</span> Computer Science Graduate 2022</p>
               <p className='text-md py-1 leading-8 dark:text-white dark:text-white'>Co-Founder and CEO of
